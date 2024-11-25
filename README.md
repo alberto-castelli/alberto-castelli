@@ -4,7 +4,7 @@ I'm a double-degree student in Financial Modelling, splitting my time between Ma
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Black-Scholes-Merton Model and Option Greeks](https://github.com/alberto-castelli/Black-Scholes-Merton-Model)
 
 
 <h2> 🤳 Connect with me:</h2>
