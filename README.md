@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Alberto!</h1>
+I'm a double-degree student in Financial Modelling, splitting my time between Marseille, France, and Venice, Italy, as I work to complete my studies. In the meantime, I juggle Python scripts, financial theories, and the eternal question of how to pack for two climates! 🧳✈️
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alberto-castelli-
 
 <!--
-**alberto-castelli/alberto-castelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
